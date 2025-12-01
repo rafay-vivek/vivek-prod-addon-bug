@@ -3,6 +3,16 @@ entries:
   sample-chart:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2025-12-01T08:15:31.749940645Z"
+    description: A simple sample Helm chart
+    digest: 803cc3d7f33706fccf423b9d11a7b8ad99d25ae547c7fb920c2f134771ca2d0a
+    name: sample-chart
+    type: application
+    urls:
+    - https://github.com/rafay-vivek/vivek-prod-addon-bug/releases/download/sample-chart-0.1.6/sample-chart-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2025-12-01T07:17:06.682806827Z"
     description: A simple sample Helm chart
     digest: 1bfd48ee5b868adb507244945615ba697ab12529dd583d852ecfbf5d4828271c
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/rafay-vivek/vivek-prod-addon-bug/releases/download/sample-chart-0.1.1/sample-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2025-12-01T07:17:06.682823037Z"
+generated: "2025-12-01T08:15:31.749968457Z"
