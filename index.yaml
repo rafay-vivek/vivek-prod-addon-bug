@@ -3,6 +3,16 @@ entries:
   sample-chart:
   - apiVersion: v2
     appVersion: 1.27.0
+    created: "2025-12-02T07:54:47.56889652Z"
+    description: Minimal NGINX Helm chart (deployment only)
+    digest: 2fd88890c7950cfd22b554eac360c9e2f82b4ebbc067c74d2fcf0807a59788d2
+    name: sample-chart
+    type: application
+    urls:
+    - https://github.com/rafay-vivek/vivek-prod-addon-bug/releases/download/sample-chart-0.1.20/sample-chart-0.1.20.tgz
+    version: 0.1.20
+  - apiVersion: v2
+    appVersion: 1.27.0
     created: "2025-12-02T05:42:57.455093586Z"
     description: Minimal NGINX Helm chart (deployment only)
     digest: 09d165bab5513eae3cc43162c846fe0410beb10a0d2e662e33496f7efd43acd6
@@ -131,4 +141,4 @@ entries:
     urls:
     - https://github.com/rafay-vivek/vivek-prod-addon-bug/releases/download/sample-chart-0.1.1/sample-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2025-12-02T05:42:57.45522468Z"
+generated: "2025-12-02T07:54:47.569270856Z"
